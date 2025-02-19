@@ -1,5 +1,5 @@
 import { cn } from '@/lib/utils';
-import { Container } from './Container';
+import { Container} from "@/components/shared";
 import React from 'react';
 import Image from 'next/image';
 import { ArrowRight, ShoppingCart, User } from 'lucide-react';
