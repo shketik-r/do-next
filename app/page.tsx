@@ -2,7 +2,7 @@
 
 import { Container } from "@/components/shared/Container";
 import { Title } from "@/components/shared/title";
-// import { TopBar } from "@/components/shared/topBar";
+import { TopBar } from "@/components/shared/topBar";
 
 // import { Container, Title, TopBar } from "@/components/shared";
 
@@ -14,7 +14,7 @@ export default function Home() {
         <Title text="Все пиццы" size="lg" className="font-extrabold" />
       </Container>
 
-      {/* <TopBar className="123" /> */}
+      <TopBar className="123" />
 
 
     </>
