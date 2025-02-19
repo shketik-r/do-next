@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils';
 import React from 'react';
-import { Container, CategoriesProduct, SortPopup } from "@/components/shared";
+import { Container, Categories, SortPopup } from "@/components/shared";
 
 interface Props {
   className?: string;
@@ -11,7 +11,7 @@ export const TopBar: React.FC<Props> = ({ className }) => {
 
     <div className={cn('sticky top-0 bg-white py-5 shadow-lg shadow-black/5 z-10', className)}>
       <Container  className='flex items-center justify-between'>
-        <CategoriesProduct className='123'/>
+        <Categories className='123'/>
         <SortPopup className='123'/>
       </Container>
 

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import "./globals.css";
-import { Header } from "@/components/shared/header";
+import { Header } from "@/components/shared/Header";
 
 const geistNunito = Nunito({
   weight: ["400","500","600", "700","800","900"],

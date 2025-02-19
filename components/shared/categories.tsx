@@ -8,7 +8,7 @@ interface Props {
 const cats = ['Пиццы', 'Салаты', 'Супы', 'Горячее', 'Напитки', 'Десерты'];
 const activeIndex = 0;
 
-export const CategoriesProduct: React.FC<Props> = ({ className  }) => {
+export const Categories: React.FC<Props> = ({ className  }) => {
   return (
 
 
