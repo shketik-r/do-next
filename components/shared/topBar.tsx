@@ -1,9 +1,6 @@
 import { cn } from '@/lib/utils';
 import React from 'react';
-import { Container } from './Container';
-import { CategoriesProduct } from './CategoriesProduct';
-import { SortPopup } from './Sort-popup';
-// import { Container, CategoriesProduct, SortPopup } from "@/components/shared";
+import { Container, CategoriesProduct, SortPopup } from "@/components/shared";
 
 interface Props {
   className?: string;
