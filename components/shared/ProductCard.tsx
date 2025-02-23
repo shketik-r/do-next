@@ -12,6 +12,7 @@ interface Props {
   className?: string;
 }
 
+
 export const ProductCard: React.FC<Props> = ({ className, imageUrl, name, price, id }) => {
   return (
     <div className={className}>
