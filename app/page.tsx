@@ -33,7 +33,7 @@ export default function Home() {
                     },]
                   },
                   {
-                    id: 1,
+                    id: 2,
                     name: "Чизбургер-пицца",
                     imageUrl: "https://media.dodostatic.net/image/r:233x233/0194ab28a8867226b1e9812127a8f088.avif",
                     items: [{
@@ -41,7 +41,7 @@ export default function Home() {
                     },]
                   },
                   {
-                    id: 1,
+                    id: 3,
                     name: "Чизбургер-пицца",
                     imageUrl: "https://media.dodostatic.net/image/r:233x233/0194ab28a8867226b1e9812127a8f088.avif",
                     items: [{
@@ -49,7 +49,7 @@ export default function Home() {
                     },]
                   },
                   {
-                    id: 1,
+                    id: 4,
                     name: "Чизбургер-пицца",
                     imageUrl: "https://media.dodostatic.net/image/r:233x233/0194ab28a8867226b1e9812127a8f088.avif",
                     items: [{
@@ -57,7 +57,7 @@ export default function Home() {
                     },]
                   },
                   {
-                    id: 1,
+                    id: 5,
                     name: "Чизбургер-пицца",
                     imageUrl: "https://media.dodostatic.net/image/r:233x233/0194ab28a8867226b1e9812127a8f088.avif",
                     items: [{
