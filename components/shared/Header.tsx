@@ -3,7 +3,7 @@ import { Container} from "@/components/shared";
 import React from 'react';
 import Image from 'next/image';
 import { ArrowRight, ShoppingCart, User } from 'lucide-react';
-import { Button } from '../ui';
+import { Button } from '@/components/ui';
 
 interface Props {
   className?: string;
