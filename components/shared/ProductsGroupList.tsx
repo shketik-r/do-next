@@ -1,7 +1,7 @@
 import React from 'react';
-import { Title } from './Title';
+import { Title,ProductCard } from '@/components/shared';
 import { cn } from '@/lib/utils';
-import { ProductCard } from './ProductCard';
+
 
 interface ProductItem {
   price: number;
