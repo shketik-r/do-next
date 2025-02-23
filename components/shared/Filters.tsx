@@ -1,11 +1,9 @@
 'use client';
 
 import React from 'react';
-import { Title } from './Title';
-import { FilterCheckbox } from './FilterCheckbox';
+import { Title ,FilterCheckbox,RangeSlider,CheckBoxFiltersGroup } from '@/components/shared';
 import { Input } from '../ui/input';
-import { RangeSlider } from './RangeSlider';
-import { CheckBoxFiltersGroup } from './CheckBoxFiltersGroup';
+
 
 
 interface Props {
